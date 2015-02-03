@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical" >
+
+    <com.czl.struct.widget.DragListView
+        android:id="@+id/dragLvi"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#FFFFFF"
+        android:cacheColorHint="@android:color/transparent"
+        android:divider="#DCD7CF"
+        android:dividerHeight="1dp"
+        android:fadingEdgeLength="0dip"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:listSelector="@android:color/transparent"
+        android:scrollbars="vertical"
+        android:typeface="sans" >
+    </com.czl.struct.widget.DragListView>
+
+</LinearLayout>

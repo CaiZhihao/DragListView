@@ -3,6 +3,7 @@ you just drag the item in the listview to change the position with each other
 # Usage   
 1、just include DragListView in your layout xml.  
 ` <com.czl.struct.widget.DragListView   
+
   android:id="@+id/dragLvi"   
   android:layout_width="fill_parent"   
   android:layout_height="fill_parent"  

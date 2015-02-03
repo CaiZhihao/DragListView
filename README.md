@@ -12,7 +12,7 @@ Usage
      adjacent to the `ViewPager` it represents.
 
         <com.czl.struct.widget.DragListView
-             android:id="@+id/dragLvi"
+            android:id="@+id/dragLvi"
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
             android:background="#FFFFFF"
@@ -41,7 +41,7 @@ Usage
 Developed By
 ============
 
- * GankLun - <jakewharton@gmail.com>
+ * GankLun 
 
 License
 =======

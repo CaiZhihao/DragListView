@@ -45,7 +45,7 @@ Developed By
 
 Learn More
 ============  
-if you want to learn more about the DragListView,please see my blog   [ListView拖拽Item交换位置](http://blog.csdn.net/ganklun/article/details/43372355).
+if you want to learn more about the DragListView,please see my blog   [ListView拖拽Item交换位置](http://blog.csdn.net/ganklun/article/details/43448729).
 
 
 License
